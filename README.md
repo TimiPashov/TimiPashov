@@ -6,13 +6,6 @@ I'm a recent graduate from Software University, specializing in the JavaScript f
 
 ## Technologies I've Worked With:
 
-
-Certainly! Here's the modified section with HTML and CSS information separated into different lines, along with a note about using the mobile-first approach for CSS:
-
-markdown
-Copy code
-## Technologies I've Worked With:
-
 - <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Logo" width="30" height="30"> **Angular with TypeScript**: 
   Leveraged Angular to build dynamic and responsive web applications.
   
