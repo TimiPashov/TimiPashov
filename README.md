@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## About me
-My name is Timmy Pashov
+My name is Timmy Pashov and
 I'm a front-end web developer
 <!--
 **TimiPashov/TimiPashov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
