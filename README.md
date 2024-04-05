@@ -6,26 +6,26 @@ I'm a recent graduate from Software University, specializing in the JavaScript f
 
 ## Technologies I've Worked With:
 
-- <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Logo" width="30" height="30"> **Angular with TypeScript**: 
+ <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Logo" width="30" height="30"> **Angular with TypeScript**: 
   Leveraged Angular to build dynamic and responsive web applications.
   
-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="30" height="30"> **React**: 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="30" height="30"> **React**: 
   Proficient in building user interfaces using React, a popular JavaScript library.
   
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 Logo" width="30" height="30"> **HTML & CSS/Tailwind**: 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 Logo" width="30" height="30"> **HTML & CSS/Tailwind**: 
   Skilled in designing the base structure of a document using HTML5.
   
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="HTML5 Logo" width="30" height="30"> **CSS/Tailwind**: 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="HTML5 Logo" width="30" height="30"> **CSS/Tailwind**: 
   Skilled in crafting beautiful and functional UIs using HTML and CSS. 
   Expertise in Tailwind CSS. Follows the mobile-first approach for CSS.
 
-- <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB Logo" width="30" height="30"> **MongoDB**: 
+ <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB Logo" width="30" height="30"> **MongoDB**: 
   Proficient in using MongoDB for database management in NoSQL environments.
   
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js Logo" width="30" height="30"> **Express.js with Handlebars**: 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js Logo" width="30" height="30"> **Express.js with Handlebars**: 
   Developed web applications using Express.js framework with Handlebars templating engine.
   
-- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="30" height="30"> **Node.js**: 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="30" height="30"> **Node.js**: 
   Knowledgeable in building scalable and efficient server-side applications with Node.js.
   
 - ## Programming principles
