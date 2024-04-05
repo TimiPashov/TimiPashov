@@ -1,5 +1,6 @@
 
-# Hi there, I'm Timmy Pashov! 👋
+# Hi there, I'm Timmy Pashov! 👋.
+**A front-end web developer**
 
 I'm a recent graduate from Software University, specializing in the JavaScript front-end module. I'm passionate about web development and have practical experience with a variety of technologies. Here's a bit about what I bring to the table:
 
