@@ -5,7 +5,7 @@ I'm a recent graduate from Software University, specializing in the JavaScript f
 
 ## Technologies I've Worked With:
 
-- **Angular with TypeScript**: Leveraged Angular to build dynamic and responsive web applications. 
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Logo" width="20" height="20"> **Angular with TypeScript**: Leveraged Angular to build dynamic and responsive web applications. 
 - **React with Javascript**: Proficient in building user interfaces using React, a popular JavaScript library.
 - **HTML & CSS/Tailwind**: Skilled in crafting beautiful and functional UIs using HTML and CSS, with expertise in Tailwind CSS.
 - **AJAX & REST APIs**: Experienced in handling asynchronous requests and integrating data from RESTful APIs into web applications.
