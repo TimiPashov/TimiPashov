@@ -21,7 +21,7 @@ Copy code
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 Logo" width="20" height="20"> **HTML & CSS/Tailwind**: 
   Skilled in designing the base structure of a document using HTML5.
   
-- <img src="[https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png)" alt="HTML5 Logo" width="20" height="20"> **CSS/Tailwind**: 
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="HTML5 Logo" width="20" height="20"> **CSS/Tailwind**: 
   Skilled in crafting beautiful and functional UIs using HTML and CSS. 
   Expertise in Tailwind CSS. Follows the mobile-first approach for CSS.
 
