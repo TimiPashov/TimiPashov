@@ -6,8 +6,12 @@ I'm a recent graduate from Software University, specializing in the JavaScript f
 ## Technologies I've Worked With:
 
 - **Angular with TypeScript**: Leveraged Angular to build dynamic and responsive web applications.
+<div style="display:flex;flex-direction:column">
 <img src="https://play-lh.googleusercontent.com/AFY95yFw1P4ErzREpYWiSRyy6GyFA34pc70dP7MuHfkP12alfktC0Rp2ht-LbPAvO5sg=w200-h100-pc0xffffff-pd">
-Proficient in building user interfaces using React, a popular JavaScript library.
+ <p>  
+ Proficient in building user interfaces using React, a popular JavaScript library.
+ </p> 
+</div>
 - **HTML & CSS/Tailwind**: Skilled in crafting beautiful and functional UIs using HTML and CSS, with expertise in Tailwind CSS.
 - **AJAX & REST APIs**: Experienced in handling asynchronous requests and integrating data from RESTful APIs into web applications.
 - **MongoDB**: Proficient in using MongoDB for database management in NoSQL environments.
