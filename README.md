@@ -5,13 +5,12 @@ I'm a recent graduate from Software University, specializing in the JavaScript f
 
 ## Technologies I've Worked With:
 
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Logo" width="20" height="20"> **Angular with TypeScript**: Leveraged Angular to build dynamic and responsive web applications. 
-- **React with Javascript**: Proficient in building user interfaces using React, a popular JavaScript library.
-- **HTML & CSS/Tailwind**: Skilled in crafting beautiful and functional UIs using HTML and CSS, with expertise in Tailwind CSS.
-- **AJAX & REST APIs**: Experienced in handling asynchronous requests and integrating data from RESTful APIs into web applications.
-- **MongoDB**: Proficient in using MongoDB for database management in NoSQL environments.
-- **Express.js with Handlebars**: Developed web applications using Express.js framework with Handlebars templating engine.
-- **Node.js**: Basic understanding in building scalable and efficient server-side applications with Node.js.
+- <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Logo" width="20" height="20"> **Angular with TypeScript**: Leveraged Angular to build dynamic and responsive web applications.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="20" height="20"> **React**: Proficient in building user interfaces using React, a popular JavaScript library.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 Logo" width="20" height="20"> **HTML & CSS/Tailwind**: Skilled in crafting beautiful and functional UIs using HTML and CSS, with expertise in Tailwind CSS.
+- <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB Logo" width="20" height="20"> **MongoDB**: Proficient in using MongoDB for database management in NoSQL environments.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js Logo" width="20" height="20"> **Express.js with Handlebars**: Developed web applications using Express.js framework with Handlebars templating engine.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="20" height="20"> **Node.js**: Knowledgeable in building scalable and efficient server-side applications with Node.js.
 - ## Programming principles
 - **OOP & MVC**: Familiar with Object-Oriented Programming principles and Model-View-Controller architectural pattern.
 - **Functional Programming**: Experienced in writing functional code for better modularity and maintainability.
