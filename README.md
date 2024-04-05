@@ -6,7 +6,7 @@ I'm a recent graduate from Software University, specializing in the JavaScript f
 ## Technologies I've Worked With:
 
 - **Angular with TypeScript**: Leveraged Angular to build dynamic and responsive web applications.
-<div style="display:flex;flex-direction:column">
+<div style="display:flex;flex-direction:row">
 <img src="https://play-lh.googleusercontent.com/AFY95yFw1P4ErzREpYWiSRyy6GyFA34pc70dP7MuHfkP12alfktC0Rp2ht-LbPAvO5sg=w200-h100-pc0xffffff-pd">
  <p>  
  Proficient in building user interfaces using React, a popular JavaScript library.
