@@ -5,7 +5,7 @@
 I'm a recent graduate from Software University, specializing in the JavaScript front-end module. I'm passionate about web development and have practical experience with a variety of technologies. Here's a bit about what I bring to the table:
 
 ## Technologies I've Worked With:
-
+<img src="<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="JavaSCript logo" width="30" height="30">" alt="Angular Logo" width="30" height="30"> **JavaSCript**
  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Logo" width="30" height="30"> **Angular with TypeScript**: 
   Leveraged Angular to build dynamic and responsive web applications.
   
