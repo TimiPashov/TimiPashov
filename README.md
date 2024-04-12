@@ -6,7 +6,7 @@ I'm a recent graduate from Software University, specializing in the JavaScript f
 
 ## Technologies I've Worked With:
 
-  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JS logo" width="30" height="30"> **JavaSCript**
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JS logo" width="30" height="30"> **JavaSCript**:
   Proficient in vanilla JS.
   
  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Logo" width="30" height="30"> **Angular with TypeScript**: 
