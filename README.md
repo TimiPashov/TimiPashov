@@ -15,7 +15,7 @@ I'm a recent graduate from Software University, specializing in the JavaScript f
  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="30" height="30"> **React**: 
   Proficient in building user interfaces using React, a popular JavaScript library.
   
- <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 Logo" width="30" height="30"> **HTML & CSS/Tailwind**: 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 Logo" width="30" height="30"> **HTML**: 
   Skilled in designing the base structure of a document using HTML5.
   
  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="HTML5 Logo" width="30" height="30"> **CSS/Tailwind**: 
@@ -38,7 +38,7 @@ I'm a recent graduate from Software University, specializing in the JavaScript f
 
 ## What I'm Currently Up To:
 
-- Graduating from Software University with a focus on advancing my skills in web development.
+- Open to work.
 - Exploring new technologies and frameworks to expand my knowledge base.
 - Actively seeking opportunities to apply my skills in real-world projects and contribute to meaningful initiatives.
 
